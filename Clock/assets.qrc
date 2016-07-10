@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Ast/0.png</file>
+        <file>Ast/1.png</file>
+        <file>Ast/2.png</file>
+        <file>Ast/3.png</file>
+        <file>Ast/4.png</file>
+        <file>Ast/5.png</file>
+        <file>Ast/6.png</file>
+        <file>Ast/7.png</file>
+        <file>Ast/8.png</file>
+        <file>Ast/9.png</file>
+        <file>Ast/电子钟背景.png</file>
+        <file>Ast/间隔.png</file>
+    </qresource>
+</RCC>
